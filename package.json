@@ -1,0 +1,22 @@
+{
+  "name": "js-es6-module",
+  "version": "1.0.0",
+  "description": "introduction of es6 module",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/april-azure/js-es6-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/april-azure/js-es6-module/issues"
+  },
+  "homepage": "https://github.com/april-azure/js-es6-module#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
